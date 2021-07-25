@@ -1,0 +1,118 @@
+.skip{
+    color: orange;
+}
+
+
+.Diet{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 60px;
+    
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+.image img{
+    width: 700px;
+    height: 500px;
+    margin: 20px;
+}
+#hadding-detail{
+    font-size: 25px;
+}
+.boton{
+    background-color: orange;
+    border: 2px solid orange;
+    width: 150px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px grey;
+    
+}
+.about{
+    margin-top: 50px;
+    position: relative;
+
+}
+.food-girl{
+    
+}
+.food-girl img{
+   
+  
+    width: 1300px;
+}
+.about-details{
+    width: 500px;
+    position: absolute;
+    bottom: 150px;
+    right: 16px;
+
+}
+.recipies{
+    width: 700px;
+    text-align: center;
+    
+}
+.center{
+    width: 700px;
+    margin: auto;
+}
+.food-image img{
+    width: 300px;
+    height: 250px;
+    padding: 10px;
+}
+.recipie-title{
+    width: 300px;
+    padding-left: 10px;
+}
+.shadow{
+    width: 320px;
+    height: 430px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px gray;
+    
+}
+.recipie-box{
+    display: flex;
+    justify-content: center;
+    
+}
+#recipie-gap{
+    margin-left: 50px;
+}
+.Followers{
+    justify-content: center;
+}
+.Follow{
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 10px 15px gray;
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 20px;
+   
+}
+.gap-box{
+    margin-left: 120px;
+   
+}
+.network{
+    color: gray;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    margin-top: 50px;
+}
+.footer-details{
+    color: white;
+}
